@@ -1,5 +1,5 @@
 # TinySpring
-- Inspired by @Jeka1978 and his [Spring-построитель](https://www.youtube.com/watch?v=rd6wxPzXQvo)
+- Inspired by [@Jeka1978](https://github.com/Jeka1978) and his [Spring-построитель](https://www.youtube.com/watch?v=rd6wxPzXQvo)
 
 ## About
 - Repository contains two modules (*Framework* and *FrameworkUsage*)
