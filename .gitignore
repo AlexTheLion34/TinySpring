@@ -1,0 +1,24 @@
+# Compiled class file
+*.class
+
+# Idea
+.idea/
+*.iml
+
+# Maven:
+target/
+
+# Log file
+*.log
+
+# BlueJ files
+*.ctxt
+
+# Package Files #
+*.jar
+*.war
+*.nar
+*.ear
+*.zip
+*.tar.gz
+*.rar
